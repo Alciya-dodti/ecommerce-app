@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Alciya-dodti/ecommerce-app/static/js/main.6a1fd650.js",
+    "main.js": "/Alciya-dodti/ecommerce-app/static/js/main.c6ed9007.js",
     "index.html": "/Alciya-dodti/ecommerce-app/index.html",
-    "main.6a1fd650.js.map": "/Alciya-dodti/ecommerce-app/static/js/main.6a1fd650.js.map"
+    "main.c6ed9007.js.map": "/Alciya-dodti/ecommerce-app/static/js/main.c6ed9007.js.map"
   },
   "entrypoints": [
-    "static/js/main.6a1fd650.js"
+    "static/js/main.c6ed9007.js"
   ]
 }
