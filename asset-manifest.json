@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Alciya-dodti/ecommerce-app/static/js/main.c6ed9007.js",
-    "index.html": "/Alciya-dodti/ecommerce-app/index.html",
-    "main.c6ed9007.js.map": "/Alciya-dodti/ecommerce-app/static/js/main.c6ed9007.js.map"
+    "main.js": "/ecommerce-app/static/js/main.c6ed9007.js",
+    "index.html": "/ecommerce-app/index.html",
+    "main.c6ed9007.js.map": "/ecommerce-app/static/js/main.c6ed9007.js.map"
   },
   "entrypoints": [
     "static/js/main.c6ed9007.js"
